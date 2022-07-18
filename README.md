@@ -4,5 +4,5 @@
  
 
 ## Website 
-please disable adblock on this website to fetch firebase data. <br>
+please disable adblock and login on this website to fetch firebase data. <br>
 https://disneyplus-clone-app-1f919.web.app
