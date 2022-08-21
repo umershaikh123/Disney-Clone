@@ -6,7 +6,7 @@
 
 ## Website 
 please disable adblock and login on this website to fetch firebase data. <br>
-disney-clone-lilac.vercel.app
+link : disney-clone-lilac.vercel.app
 <br>
 <br>
 
