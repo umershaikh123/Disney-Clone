@@ -6,7 +6,7 @@
 
 ## Website 
 please disable adblock and login on this website to fetch firebase data. <br>
-https://disneyplus-clone-app-1f919.web.app
+disney-clone-lilac.vercel.app
 <br>
 <br>
 
